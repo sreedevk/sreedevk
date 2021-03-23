@@ -11,8 +11,9 @@
 * I love Electronics, Radio 📻 , Vintage Tech, Game development, Systems Programming, IPSec & Web Development
 * I'm an Ardent Advocate of Open Source Software & a [linux Enthusiast](https://github.com/sreedevk/dotfiles).
 * Ask me anything about Systems Software Development, Digital Audio, Game Development, IPSec or Web Development.
+* I'm currently working on writing peripheral drivers for Kendryte K210 Chipset (RISC V) using the kendryte-sdk.
 * You can reach out to me at [sreedev@icloud.com](mailto:sreedev@icloud.com)
-* Fun Fact: `curl -L sree.dev` prints my profile on your terminal :sm
+* Fun Fact: `curl -L sree.dev` prints my profile on your terminal 😏
 * Pronouns: He/Him.
 
 #### My Tech Stack
@@ -26,3 +27,8 @@
 
 #### My Toolbox
 <img src="https://user-images.githubusercontent.com/36154121/112138622-bf717980-8bf7-11eb-89ec-0ab52896e3b1.png" alt="vim" width="64"/><img src="https://user-images.githubusercontent.com/36154121/112138986-33ac1d00-8bf8-11eb-8961-9e5936992c75.png" alt="linux" width="64"/><img src="https://user-images.githubusercontent.com/36154121/112139931-5c80e200-8bf9-11eb-8ea4-c33bfce8a3fc.png" alt="msf" width="64"/>
+
+#### My Stats
+
+[![Readme Card](https://github-readme-stats.vercel.app/api?username=sreedevk&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+
