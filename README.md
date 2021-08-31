@@ -27,11 +27,3 @@
 
 #### My Toolbox
 <img src="https://user-images.githubusercontent.com/36154121/112138622-bf717980-8bf7-11eb-89ec-0ab52896e3b1.png" alt="vim" width="64"/><img src="https://user-images.githubusercontent.com/36154121/112138986-33ac1d00-8bf8-11eb-8961-9e5936992c75.png" alt="linux" width="64"/><img src="https://user-images.githubusercontent.com/36154121/112139931-5c80e200-8bf9-11eb-8ea4-c33bfce8a3fc.png" alt="msf" width="64"/>
-
-#### My Stats
-
-[![Readme Card](https://github-readme-stats.vercel.app/api?username=sreedevk&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sreedevk&layout=compact)](https://github.com/sreedevk/)
-
-
