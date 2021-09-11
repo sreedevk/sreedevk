@@ -11,7 +11,7 @@
 * I love Electronics, Radio 📻 , Vintage Tech, Game development, Systems Programming, IPSec & Web Development
 * I'm an Ardent Advocate of Open Source Software & a [linux Enthusiast](https://github.com/sreedevk/dot).
 * Ask me anything about Systems Software Development, Digital Audio, Game Development, IPSec or Web Development.
-* I'm currently working on writing peripheral drivers for Kendryte K210 Chipset (RISC V) using the kendryte-sdk.
+* I'm currently exploring Elixir & working on writing peripheral drivers for Kendryte K210 Chipset (RISC V) using the kendryte-sdk.
 * You can reach out to me at [sreedev@icloud.com](mailto:sreedev@icloud.com)
 * Fun Fact: `curl -L sree.dev` prints my profile on your terminal 😏
 * Pronouns: He/Him.
