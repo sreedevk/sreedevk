@@ -1,4 +1,5 @@
 ### Sreedev Kodichath
+
 #### About
 * Pronouns: He/Him.
 * Senior Software Engineer @ [Tarka Labs](https://tarkalabs.com) 💻
@@ -9,17 +10,7 @@
 * Email: [sreedev@icloud.com](mailto:sreedev@icloud.com)
 * Website: [www.sree.dev](https://sree.dev)
 * Curl: `curl -L sree.dev`
-
-#### Stack
-* Ruby
-* Elixir
-* C / C++
-* Rust
-* Javascript
-* Shell Scripting
-* SQL
-* DGraph 
-
+##### Ruby | Elixir | C / C++ | Rust | Javascript | Shell Scripting
 #### Toolbox
 * Neovim + Neovide
 * Doom Emacs
