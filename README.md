@@ -9,7 +9,6 @@
       currently_exploring: [:category_theory, :functional_programming, :lambda_calculus],
       blog: 'www.devtechnica.org',
       exec: `curl -L sree.dev`,
-      tech_stack: ['ruby', 'elixir', 'c/c++', 'rust', 'javascript'],
       tools: ['Neovim', 'Doom Emacs', 'Arch Linux', 'i3wm']
     }
 ```
