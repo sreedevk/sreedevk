@@ -1,6 +1,4 @@
-#+AUTHOR: Sreedev Kodichath
-
-#+begin_src ruby
+```ruby
     {
       name: 'Sreedev Kodichath',
       designation: 'Senior Software Engineer',
@@ -14,5 +12,5 @@
       tech_stack: ['ruby', 'elixir', 'c/c++', 'rust', 'javascript'],
       tools: ['Neovim', 'Doom Emacs', 'Arch Linux', 'i3wm']
     }
-#+end_src
-
+```
+![LangStats](https://github-readme-stats.vercel.app/api/top-langs/?username=sreedevk&hide=javascript,html,erlang,css&langs_count=8&theme=radical)
