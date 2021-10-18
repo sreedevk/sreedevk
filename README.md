@@ -16,4 +16,3 @@
     }
 #+end_src
 
-![LangStats](https://github-readme-stats.vercel.app/api/top-langs/?username=sreedevk&hide=javascript,html,erlang,css&langs_count=8)
