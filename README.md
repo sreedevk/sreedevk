@@ -15,4 +15,4 @@
 
 Language Stats             |  Github Stats
 :-------------------------:|:-------------------------:
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=sreedevk&hide=javascript,html,erlang,css&langs_count=8&theme=midnight-purple&layout=compact)  | ![](https://github-readme-stats.vercel.app/api?username=sreedevk&theme=midnight-purple&count_private=true&show_icons=true)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=sreedevk&hide=javascript,html,erlang,css&langs_count=10&theme=midnight-purple&layout=compact)  | ![](https://github-readme-stats.vercel.app/api?username=sreedevk&theme=midnight-purple&count_private=true&show_icons=true)
