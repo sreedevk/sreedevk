@@ -2,7 +2,7 @@
     {
       name: 'Sreedev Kodichath',
       designation: 'Senior Software Engineer',
-      organization: { name: 'Tarka Labs', url: 'www.tarkalabs.com'},
+      organization: { name: 'Tarka Labs', url: 'www.tarkalabs.com' },
       website: 'www.sree.dev',
       pronouns: 'He/Him',
       domains: [:systems_development, :digital_audio, :game_development, :web_development],
