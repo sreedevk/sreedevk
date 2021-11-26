@@ -13,9 +13,10 @@
     }
 ```
 
-Language Stats             |  Github Stats
-:-------------------------:|:-------------------------:
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=sreedevk&hide=javascript,html,erlang,scss,css,QML&langs_count=10&theme=midnight-purple&layout=compact)  | ![](https://github-readme-stats.vercel.app/api?username=sreedevk&theme=midnight-purple&count_private=true&show_icons=true)
+Language Stats             |  Github Stats             |  Workstation
+:-------------------------:|:-------------------------:|:-------------------------:
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=sreedevk&hide=javascript,html,erlang,scss,css,QML&langs_count=10&theme=midnight-purple&layout=compact)  | ![](https://github-readme-stats.vercel.app/api?username=sreedevk&theme=midnight-purple&count_private=true&show_icons=true) | <img src="https://user-images.githubusercontent.com/36154121/143623562-0ab62d26-c808-4925-b815-e2baa6f83f2e.jpg" width="300" />
+
 
 
 
