@@ -13,7 +13,6 @@
     }
 ```
 ### Projects
-- [BitBns Ruby](https://github.com/sreedevk/bitbns-rb) - (Crypto Trading API) Ruby Client
 - [u8g2 Kendryte SDK HAL](https://github.com/sreedevk/u8g2-kendryte-sdk-hal) - Hardware Abstraction Layer for u8g2 monochrome display library for Kendryte-SDK
 - [Reacti-Vitae](https://github.com/sreedevk/reacti-vitae) - React Base Curriculum Vitae / Resume Builder
 - [dot](https://github.com/sreedevk/dot) - My Linux Dotfiles
@@ -27,6 +26,7 @@
 - [Kendryte Adventures](https://github.com/sreedevk/kendryte-adventures) - Collection of Drivers, HALs & Libraries for Kendryte SDK
 - [CSV Ingestion Pipeline](https://github.com/sreedevk/csv-ingestion-pipeline) - An Example For Implementing CSV (ETL) Systems Using Elixir, GenStage & Broadway
 - [TicTractor](https://github.com/sreedevk/tictractor) - Ruby + SDL2 TicTacToe Game (Human vs Machine)
+- [BitBns Ruby](https://github.com/sreedevk/bitbns-rb) - (Crypto Trading API) Ruby Client
 
 Language Stats             |  Github Stats             |  Workstation
 :-------------------------:|:-------------------------:|:-------------------------:
