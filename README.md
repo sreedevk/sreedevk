@@ -13,6 +13,7 @@
     }
 ```
 ### Projects
+- [aws-ssh](https://github.com/sreedevk/aws-ssh) - Easy SSH Into Amazon AWS EC2 Instances
 - [u8g2 Kendryte SDK HAL](https://github.com/sreedevk/u8g2-kendryte-sdk-hal) - Hardware Abstraction Layer for u8g2 monochrome display library for Kendryte-SDK
 - [Reacti-Vitae](https://github.com/sreedevk/reacti-vitae) - React Base Curriculum Vitae / Resume Builder
 - [dot](https://github.com/sreedevk/dot) - My Linux Dotfiles
