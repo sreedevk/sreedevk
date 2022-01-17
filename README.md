@@ -16,7 +16,7 @@
 - [aws-ssh](https://github.com/sreedevk/aws-ssh) - Easy SSH Into Amazon AWS EC2 Instances
 - [u8g2 Kendryte SDK HAL](https://github.com/sreedevk/u8g2-kendryte-sdk-hal) - Hardware Abstraction Layer for u8g2 monochrome display library for Kendryte-SDK
 - [Reacti-Vitae](https://github.com/sreedevk/reacti-vitae) - React Base Curriculum Vitae / Resume Builder
-- [Fylorg](https://github.com/sreedevk/reacti-vitae) - Smart File Organizer
+- [Fylorg](https://github.com/sreedevk/fylorg) - Smart File Organizer
 - [dot](https://github.com/sreedevk/dot) - My Linux Dotfiles
 - [Pyramage](https://github.com/sreedevk/pyramage) - Python Random Image Generator (Uses Perlin Noise Algo)
 - [Brainfunc](https://github.com/sreedevk/brainfunc) - Functional Style Ruby Brainfuck Interpreter
