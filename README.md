@@ -1,15 +1,13 @@
 ```ruby
     {
       name: 'Sreedev Kodichath',
+      pronouns: 'He/Him',
       designation: 'Senior Software Engineer',
       organization: { name: 'Tarka Labs', url: 'www.tarkalabs.com' },
-      website: 'www.sree.dev',
-      pronouns: 'He/Him',
-      domains: [:systems_development, :digital_audio, :game_development, :web_development],
-      currently_exploring: [:category_theory, :functional_programming, :lambda_calculus],
-      blog: 'www.devtechnica.org',
-      exec: `curl -L sree.dev`,
-      tools: ['Neovim', 'Doom Emacs', 'Arch Linux', 'i3wm']
+      web: ['www.sree.dev', 'www.devtechnica.org', 'sreedevk.medium.com'],
+      domains: [:financial_systems_design, :event_driven_architecture, :distributed_systems, :data_processing_pipelines, :operating_systems],
+      tui: `curl -L sree.dev`,
+      tools: ['Neovim', 'Doom Emacs', 'Arch Linux', 'i3wm', 'Tmux']
     }
 ```
 ### Projects
