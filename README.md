@@ -1,14 +1,28 @@
-```ruby
-    {
-      name: 'Sreedev Kodichath',
-      pronouns: 'He/Him',
-      designation: 'Senior Software Engineer',
-      organization: { name: 'Tarka Labs', url: 'www.tarkalabs.com' },
-      web: ['www.sree.dev', 'www.devtechnica.org', 'sreedevk.medium.com'],
-      domains: [:financial_systems_design, :event_driven_architecture, :distributed_systems, :data_processing_pipelines, :operating_systems],
-      tui: `curl -L sree.dev`,
-      tools: ['Neovim', 'Doom Emacs', 'Arch Linux', 'i3wm', 'Tmux']
-    }
+```yaml
+    name: Sreedev Kodichath
+    pronouns: He/Him/His
+    work:
+        designation: Senior Software Engineer
+        organization: Tarkalabs
+    web:
+        personal: www.sree.dev
+        blog: www.devtechnica.com
+        medium: https://sreedevk.medium.com/
+        twitter: https://twitter.com/vu2jwe
+        instagram: https://instagram.com/vu2jwe
+        linked_in: https://www.linkedin.com/in/ksreedev/
+    tui: curl -L sree.dev
+    domains:
+        - financial_systems_design
+        - operating_systems / kernels / compilers
+        - web_application_development
+        - Amateur Radio
+    tools:
+        - Doom Emacs
+        - Neovim / Neovide
+        - Arch Linux
+        - AwesomeWM
+        - Tmux
 ```
 ### Projects
 - [aws-ssh](https://github.com/sreedevk/aws-ssh) - Easy SSH Into Amazon AWS EC2 Instances
