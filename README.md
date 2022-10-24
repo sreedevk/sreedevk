@@ -2,38 +2,48 @@
     name: Sreedev Kodichath
     pronouns: He/Him/His
     work:
-        designation: Senior Software Engineer
-        organization: Tarkalabs
+      designation: Senior Software Engineer
+      organization: Tarkalabs
     web:
-        personal: www.sree.dev
-        blog: www.devtechnica.com
-        medium: https://sreedevk.medium.com/
-        twitter: https://twitter.com/vu2jwe
-        instagram: https://instagram.com/vu2jwe
-        linked_in: https://www.linkedin.com/in/ksreedev/
+      personal: www.sree.dev
+      email: hello@sree.dev
+      blog: www.devtechnica.com
+      medium: sreedevk.medium.com
+      twitter: twitter.com/vu2jwe
+      instagram: instagram.com/vu2jwe
+      linked_in: linkedin.com/in/ksreedev/
     tui: curl -L sree.dev
     domains:
-        - financial_systems_design
-        - operating_systems / kernels / compilers
-        - web_application_development
-        - Amateur Radio
+      - financial_systems_design
+      - operating_systems / kernels / compilers
+      - web_application_development
+      - Amateur Radio
     tools:
-        - Doom Emacs
-        - Neovim / Neovide
-        - Arch Linux
-        - AwesomeWM
-        - Tmux
+      - Doom Emacs
+      - Neovim / Neovide
+      - Arch Linux
+      - AwesomeWM
+      - Tmux
+    amateur_radio_callsigns:
+      - KD2ZWB (United States)
+      - VU2JWE (India)
+    gpg_key_id: 0x{F2D0 0663 8E49 CD45}
 ```
 ### Projects
-- [aws-ssh](https://github.com/sreedevk/aws-ssh) - Easy SSH Into Amazon AWS EC2 Instances
-- [u8g2 Kendryte SDK HAL](https://github.com/sreedevk/u8g2-kendryte-sdk-hal) - Hardware Abstraction Layer for u8g2 monochrome display library for Kendryte-SDK
-- [pocketbase-sdk-rust](https://github.com/sreedevk/pocketbase-sdk-rust) - A Rust client SDK for [Pocketbase](https://pocketbase.io/)
-- [Reacti-Vitae](https://github.com/sreedevk/reacti-vitae) - React Base Curriculum Vitae / Resume Builder
-- [dot](https://github.com/sreedevk/dot) - My Linux Dotfiles
-- [Chip8](https://github.com/sreedevk/chip8) - Yet Another Rust Chip8 VM
-- [AdventOfCode](https://github.com/sreedevk/advent-of-code) - AoC Solutions in Ruby/Elixir/Clojure
-- [Kendryte Adventures](https://github.com/sreedevk/kendryte-adventures) - Collection of Drivers, HALs & Libraries for Kendryte SDK
-- [CSV Ingestion Pipeline](https://github.com/sreedevk/csv-ingestion-pipeline) - An Example For Implementing CSV (ETL) Systems Using Elixir, GenStage & Broadway
+- [dot](https://github.com/sreedevk/dot) - My Linux Dotfiles - Arch/Neovim/Emacs/AwesomeWM/Kitty/Zsh/Starship
+- [aws-ssh](https://github.com/sreedevk/aws-ssh) - fzf powered configurable auto ssh into ec2 instances
+- [u8g2-kendryte-sdk-hal](https://github.com/sreedevk/u8g2-kendryte-sdk-hal) - u8g2 HAL for Kendryte-SDK
+- [pocketbase-sdk-rust](https://github.com/sreedevk/pocketbase-sdk-rust) - A rust client lib for [Pocketbase](https://pocketbase.io/)
+- [reacti-vitae](https://github.com/sreedevk/reacti-vitae) - monotheme resume generator powered by react
+- [chip8](https://github.com/sreedevk/chip8) - Experimental Chip8 Core VM Implementation
+- [advent-of-code](https://github.com/sreedevk/advent-of-code) - AoC Solutions in Rust/Ruby/Elixir/Clojure
+- [csv-ingestion-pipeline](https://github.com/sreedevk/csv-ingestion-pipeline) - ETL Implementation Using Elixir/Broadway/RedisStreams
+
+### Blog
+- [An introductory guide to FP concepts](https://medium.com/tarkalabs/an-introductory-guide-to-functional-programming-concepts-5d23abf0b03a)
+- [Digital audio 101](https://medium.com/tarkalabs/digital-audio-101-playing-audio-from-a-microcontroller-5df1463616c)
+- [Real world use of bitwise operators](https://medium.com/tarkalabs/real-world-uses-of-bitwise-operators-c41429df507f)
+- [Ruby Magic Comments](https://medium.com/tarkalabs/all-you-need-to-know-about-comments-in-ruby-97d991714cf3)
 
 Language Stats             |  Github Stats             |  Workstation
 :-------------------------:|:-------------------------:|:-------------------------:
