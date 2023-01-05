@@ -30,6 +30,7 @@
     gpg_key_id: 0x{F2D0 0663 8E49 CD45}
 ```
 ### Projects
+- [Deduplicator](https://github.com/sreedevk/deduplicator) - Find & Destroy Duplicate files consuming your storage.
 - [dot](https://github.com/sreedevk/dot) - My Linux Dotfiles - Arch/Neovim/Emacs/AwesomeWM/Kitty/Zsh/Starship
 - [aws-ssh](https://github.com/sreedevk/aws-ssh) - fzf powered configurable auto ssh into ec2 instances
 - [u8g2-kendryte-sdk-hal](https://github.com/sreedevk/u8g2-kendryte-sdk-hal) - u8g2 HAL for Kendryte-SDK
