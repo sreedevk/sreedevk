@@ -36,7 +36,6 @@
 - [u8g2-kendryte-sdk-hal](https://github.com/sreedevk/u8g2-kendryte-sdk-hal) - u8g2 HAL for Kendryte-SDK
 - [pocketbase-sdk-rust](https://github.com/sreedevk/pocketbase-sdk-rust) - A rust client lib for [Pocketbase](https://pocketbase.io/)
 - [reacti-vitae](https://github.com/sreedevk/reacti-vitae) - monotheme resume generator powered by react
-- [chip8](https://github.com/sreedevk/chip8) - Experimental Chip8 Core VM Implementation
 - [advent-of-code](https://github.com/sreedevk/advent-of-code) - AoC Solutions in Rust/Ruby/Elixir/Clojure
 - [csv-ingestion-pipeline](https://github.com/sreedevk/csv-ingestion-pipeline) - ETL Implementation Using Elixir/Broadway/RedisStreams
 
