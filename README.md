@@ -1,29 +1,11 @@
 ```yaml
     name: Sreedev Kodichath
     pronouns: He/Him/His
+    email: sreedev@icloud.com
     work:
       designation: Senior Software Engineer
       organization: Tarkalabs
-    web:
-      personal: www.sree.dev
-      email: hello@sree.dev
-      blog: www.devtechnica.com
-      medium: sreedevk.medium.com
-      twitter: twitter.com/vu2jwe
-      instagram: instagram.com/vu2jwe
-      linked_in: linkedin.com/in/ksreedev/
     tui: curl -L sree.dev
-    domains:
-      - financial_systems_design
-      - operating_systems / kernels / compilers
-      - web_application_development
-      - Amateur Radio
-    tools:
-      - Doom Emacs
-      - Neovim / Neovide
-      - Arch Linux
-      - AwesomeWM
-      - Tmux
     amateur_radio_callsigns:
       - KD2ZWB (United States)
       - VU2JWE (India)
