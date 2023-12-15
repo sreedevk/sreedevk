@@ -14,7 +14,7 @@
 ### Projects
 - [Deduplicator](https://github.com/sreedevk/deduplicator) - Find & Destroy Duplicate files consuming your storage.
 - [dot](https://github.com/sreedevk/dot) - My Linux Dotfiles - Arch/Neovim/Emacs/AwesomeWM/Kitty/Zsh/Starship
-- [Blaze-ssh](https://github.com/sreedevk/aws-ssh) - SSH into ec2 instances without leaving the terminal. { [aws-ssh](https://github.com/sreedevk/aws-ssh) Alternative }
+- [Blaze-ssh](https://github.com/sreedevk/blaze-ssh) - SSH into ec2 instances without leaving the terminal. { [aws-ssh](https://github.com/sreedevk/aws-ssh) Alternative }
 - [u8g2-kendryte-sdk-hal](https://github.com/sreedevk/u8g2-kendryte-sdk-hal) - u8g2 HAL for Kendryte-SDK
 - [pocketbase-sdk-rust](https://github.com/sreedevk/pocketbase-sdk-rust) - A rust client lib for [Pocketbase](https://pocketbase.io/)
 - [reacti-vitae](https://github.com/sreedevk/reacti-vitae) - monotheme resume generator powered by react
