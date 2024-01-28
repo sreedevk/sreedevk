@@ -22,6 +22,7 @@
 - [csv-ingestion-pipeline](https://github.com/sreedevk/csv-ingestion-pipeline) - ETL Implementation Using Elixir/Broadway/RedisStreams
 
 ### Blog
+- [Systemd-Run : Transient Systemd Service Units](https://devtechnica.com/systemd-transient-units/)
 - [An introductory guide to FP concepts](https://medium.com/tarkalabs/an-introductory-guide-to-functional-programming-concepts-5d23abf0b03a)
 - [Digital audio 101](https://medium.com/tarkalabs/digital-audio-101-playing-audio-from-a-microcontroller-5df1463616c)
 - [Real world use of bitwise operators](https://medium.com/tarkalabs/real-world-uses-of-bitwise-operators-c41429df507f)
