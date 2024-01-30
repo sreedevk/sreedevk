@@ -4,7 +4,7 @@
     email: sreedev@icloud.com
     work:
       designation: Senior Software Engineer
-      organization: Tarkalabs
+      organization: Tunecore
     tui: curl -L sree.dev
     amateur_radio_callsigns:
       - KD2ZWB (United States)
