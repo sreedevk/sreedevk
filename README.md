@@ -5,7 +5,7 @@
     work:
       designation: Senior Software Engineer
       organization: Tunecore
-    tui: curl -L whois.sree.dev
+    curl: curl -L whois.sree.dev
     amateur_radio_callsigns:
       - KD2ZWB (United States)
       - VU2JWE (India)
