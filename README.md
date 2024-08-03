@@ -1,15 +1,8 @@
 ```yaml
     name: Sreedev Kodichath
-    pronouns: He/Him/His
     email: sreedev@icloud.com
-    work:
-      designation: Senior Software Engineer
-      organization: Tunecore
-    curl: curl -L whois.sree.dev
-    amateur_radio_callsigns:
-      - KD2ZWB (United States)
-      - VU2JWE (India)
-    gpg_key_id: 0x{F2D0 0663 8E49 CD45}
+    work: Senior Software Engineer @ Tunecore
+    gpg: 0x{B8C4 02B1 6E80 E17C}
 ```
 ### Projects
 - [Deduplicator](https://github.com/sreedevk/deduplicator) - Find & Destroy Duplicate files consuming your storage.
