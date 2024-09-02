@@ -16,7 +16,7 @@
 
 ### Blog
 - [Building a Long-Term Data Storage Solution](https://devtechnica.com/posts/building-a-long-term-storage-solution/)
-- [Systemd-Run : Transient Systemd Service Units]([https://devtechnica.com/systemd-transient-units](https://devtechnica.com/posts/systemd-run/)
+- [Systemd-Run : Transient Systemd Service Units](https://devtechnica.com/posts/systemd-run/)
 - [An introductory guide to FP concepts](https://medium.com/tarkalabs/an-introductory-guide-to-functional-programming-concepts-5d23abf0b03a)
 - [Digital audio 101](https://medium.com/tarkalabs/digital-audio-101-playing-audio-from-a-microcontroller-5df1463616c)
 - [Real world use of bitwise operators](https://medium.com/tarkalabs/real-world-uses-of-bitwise-operators-c41429df507f)
