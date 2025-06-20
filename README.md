@@ -3,6 +3,9 @@
     email: sreedev@icloud.com
     work: Senior Software Engineer @ Tunecore
     gpg: 0x{B8C4 02B1 6E80 E17C}
+    radicle_dids:
+        - alias: cyphernova
+          DID: "did:key:z6MkpfmnpPus4ALzTL3yA1Ldkjvmwbe3NCyTNgVJQnN64rht"
 ```
 ### Projects
 - [Deduplicator](https://github.com/sreedevk/deduplicator) - Find & Destroy Duplicate files consuming your storage.
@@ -13,6 +16,7 @@
 - [reacti-vitae](https://github.com/sreedevk/reacti-vitae) - monotheme resume generator powered by react
 - [advent-of-code](https://github.com/sreedevk/advent-of-code) - AoC Solutions in Rust/Ruby/Elixir/Clojure
 - [csv-ingestion-pipeline](https://github.com/sreedevk/csv-ingestion-pipeline) - ETL Implementation Using Elixir/Broadway/RedisStreams
+- [opdstui](https://github.com/sreedevk/opdstui) - A TUI Interface to browse OPDS catalogs & consume media.
 
 ### Blog
 - [Building a Long-Term Data Storage Solution](https://devtechnica.com/posts/building-a-long-term-storage-solution/)
