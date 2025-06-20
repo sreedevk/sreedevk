@@ -3,9 +3,7 @@
     email: sreedev@icloud.com
     work: Senior Software Engineer @ Tunecore
     gpg: 0x{B8C4 02B1 6E80 E17C}
-    radicle_dids:
-        - alias: cyphernova
-          DID: "did:key:z6MkpfmnpPus4ALzTL3yA1Ldkjvmwbe3NCyTNgVJQnN64rht"
+    radicle: "did:key:z6MkpfmnpPus4ALzTL3yA1Ldkjvmwbe3NCyTNgVJQnN64rht"
 ```
 ### Projects
 - [Deduplicator](https://github.com/sreedevk/deduplicator) - Find & Destroy Duplicate files consuming your storage.
