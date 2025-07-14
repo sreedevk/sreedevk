@@ -1,10 +1,3 @@
-```yaml
-    name: Sreedev Kodichath
-    email: sreedev@icloud.com
-    work: Senior Software Engineer @ Tunecore
-    gpg: 0x{B8C4 02B1 6E80 E17C}
-    radicle: "did:key:z6MkpfmnpPus4ALzTL3yA1Ldkjvmwbe3NCyTNgVJQnN64rht"
-```
 ### Projects
 - [Deduplicator](https://github.com/sreedevk/deduplicator) - Find & Destroy Duplicate files consuming your storage.
 - [dot](https://github.com/sreedevk/dot) - My Linux Dotfiles - Arch/Neovim/Emacs/AwesomeWM/Kitty/Zsh/Starship
@@ -23,6 +16,13 @@
 - [Digital audio 101](https://medium.com/tarkalabs/digital-audio-101-playing-audio-from-a-microcontroller-5df1463616c)
 - [Real world use of bitwise operators](https://medium.com/tarkalabs/real-world-uses-of-bitwise-operators-c41429df507f)
 - [Ruby Magic Comments](https://medium.com/tarkalabs/all-you-need-to-know-about-comments-in-ruby-97d991714cf3)
+
+### Links
+- [Radicle](https://code.devtechnica.com)
+- [QRZ](https://www.qrz.com/db/KD2ZWB)
+- [GNUPG Key](https://sree.dev/sreedev.gpg.txt)
+- [Gitlab](https://gitlab.com/sreedevk)
+- [Bluesky](https://bsky.app/profile/sree.dev) 
 
 Language Stats             |  Github Stats             
 :-------------------------:|:-------------------------:
