@@ -4,7 +4,6 @@
 - [Blaze-ssh](https://github.com/sreedevk/blaze-ssh) - SSH into ec2 instances without leaving the terminal. { [aws-ssh](https://github.com/sreedevk/aws-ssh) Alternative }
 - [u8g2-kendryte-sdk-hal](https://github.com/sreedevk/u8g2-kendryte-sdk-hal) - u8g2 HAL for Kendryte-SDK
 - [pocketbase-sdk-rust](https://github.com/sreedevk/pocketbase-sdk-rust) - A rust client lib for [Pocketbase](https://pocketbase.io/)
-- [reactivitae](https://github.com/sreedevk/reactivitae) - Monotheme resume generator powered by react
 - [advent-of-code](https://github.com/sreedevk/advent-of-code) - AoC Solutions in Rust/Ruby/Elixir/Clojure
 - [csv-ingestion-pipeline](https://github.com/sreedevk/csv-ingestion-pipeline) - ETL Implementation Using Elixir/Broadway/RedisStreams
 - [opdstui](https://github.com/sreedevk/opdstui) - A TUI Interface to browse OPDS catalogs & consume media.
