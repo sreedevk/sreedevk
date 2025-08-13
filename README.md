@@ -17,6 +17,7 @@
 - [Ruby Magic Comments](https://medium.com/tarkalabs/all-you-need-to-know-about-comments-in-ruby-97d991714cf3)
 
 ### Links
+- [Forgejo](https://git.devtechnica.com)
 - [Radicle](https://code.devtechnica.com)
 - [QRZ](https://www.qrz.com/db/KD2ZWB)
 - [GNUPG Key](https://sree.dev/sreedev.gpg.txt)
