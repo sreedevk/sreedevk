@@ -23,9 +23,3 @@
 - [GNUPG Key](https://sree.dev/sreedev.gpg.txt)
 - [Gitlab](https://gitlab.com/sreedevk)
 - [Bluesky](https://bsky.app/profile/sree.dev) 
-
-Language Stats             |  Github Stats             
-:-------------------------:|:-------------------------:
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=sreedevk&hide=javascript,html,erlang,scss,css,QML&langs_count=10&theme=midnight-purple&layout=compact)  | ![](https://github-readme-stats.vercel.app/api?username=sreedevk&theme=midnight-purple&count_private=true&show_icons=true) 
-
-![](https://activity-graph.herokuapp.com/graph?username=sreedevk&theme=react-dark)
