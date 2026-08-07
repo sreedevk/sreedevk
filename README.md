@@ -1,7 +1,8 @@
 ### Projects
+- [dynamonix](https://git.devtechnica.com/sreedev/dynamonix) - A tui/cli program for tweaking niri wm display outputs.
+- [xyra/core](https://git.devtechnica.com/xyra/core) - core is a configuration layer for NixOS systems.
 - [Deduplicator](https://github.com/sreedevk/deduplicator) - Find & Destroy Duplicate files consuming your storage.
 - [dot](https://github.com/sreedevk/dot) - My Linux Dotfiles - Arch/Hyprland/Neovim/Alacritty/Tmux/Zsh
-- [Blaze-ssh](https://github.com/sreedevk/blaze-ssh) - SSH into ec2 instances without leaving the terminal. { [aws-ssh](https://github.com/sreedevk/aws-ssh) Alternative }
 - [u8g2-kendryte-sdk-hal](https://github.com/sreedevk/u8g2-kendryte-sdk-hal) - u8g2 HAL for Kendryte-SDK
 - [pocketbase-sdk-rust](https://github.com/sreedevk/pocketbase-sdk-rust) - A rust client lib for [Pocketbase](https://pocketbase.io/)
 - [advent-of-code](https://github.com/sreedevk/advent-of-code) - AoC Solutions in Rust/Ruby/Elixir/Clojure
@@ -17,9 +18,11 @@
 - [Ruby Magic Comments](https://medium.com/tarkalabs/all-you-need-to-know-about-comments-in-ruby-97d991714cf3)
 
 ### Links
-- [Forgejo](https://git.devtechnica.com)
+- [Forgejo]([https://git.devtechnica.com](https://git.devtechnica.com/xyra/core))
 - [Radicle](https://code.devtechnica.com)
 - [QRZ](https://www.qrz.com/db/KD2ZWB)
 - [GNUPG Key](https://sree.dev/sreedev.gpg.txt)
 - [Gitlab](https://gitlab.com/sreedevk)
-- [Bluesky](https://bsky.app/profile/sree.dev) 
+- [Bluesky](https://bsky.app/profile/sree.dev)
+
+> NOTE: Most of the software development work I do lives on my [personal forgejo instance](https://git.devtechnica.com/xyra/core).
