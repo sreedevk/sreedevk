@@ -1,5 +1,5 @@
 ### Projects
-- [dynamonix](https://git.devtechnica.com/sreedev/dynamonix) - A tui/cli program for tweaking niri wm display outputs.
+- [dynamonix](https://tangled.org/sree.dev/dynamonix/) - A tui/cli program for tweaking niri wm display outputs.
 - [xyra/core](https://git.devtechnica.com/xyra/core) - core is a configuration layer for NixOS systems.
 - [Deduplicator](https://github.com/sreedevk/deduplicator) - Find & Destroy Duplicate files consuming your storage.
 - [dot](https://github.com/sreedevk/dot) - My Linux Dotfiles - Arch/Hyprland/Neovim/Alacritty/Tmux/Zsh
