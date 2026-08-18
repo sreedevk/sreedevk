@@ -1,3 +1,5 @@
+> Most of the software development work I do lives on my [personal forgejo instance](https://git.devtechnica.com/xyra/core) and [tangled](https://tangled.org/sree.dev).
+
 ### Projects
 - [dynamonix](https://tangled.org/sree.dev/dynamonix/) - A tui/cli program for tweaking niri wm display outputs.
 - [xyra/core](https://git.devtechnica.com/xyra/core) - core is a configuration layer for NixOS systems.
@@ -18,11 +20,10 @@
 - [Ruby Magic Comments](https://medium.com/tarkalabs/all-you-need-to-know-about-comments-in-ruby-97d991714cf3)
 
 ### Links
-- [Forgejo]([https://git.devtechnica.com](https://git.devtechnica.com/xyra/core))
+- [Forgejo](https://git.devtechnica.com/xyra/core)
+- [Tangled](https://tangled.org/sree.dev)
 - [Radicle](https://code.devtechnica.com)
 - [QRZ](https://www.qrz.com/db/KD2ZWB)
 - [GNUPG Key](https://sree.dev/sreedev.gpg.txt)
 - [Gitlab](https://gitlab.com/sreedevk)
 - [Bluesky](https://bsky.app/profile/sree.dev)
-
-> NOTE: Most of the software development work I do lives on my [personal forgejo instance](https://git.devtechnica.com/xyra/core).
