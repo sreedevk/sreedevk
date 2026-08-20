@@ -1,6 +1,7 @@
 > Most of the software development work I do lives on my [personal forgejo instance](https://git.devtechnica.com/xyra/core) and [tangled](https://tangled.org/sree.dev).
 
 ### Projects
+- [stibble](https://tangled.org/sree.dev/stibble) - Live STIB-MIVB (Brussels) departures on the Pebble Time 2.
 - [dynamonix](https://tangled.org/sree.dev/dynamonix/) - A tui/cli program for tweaking niri wm display outputs.
 - [xyra/core](https://git.devtechnica.com/xyra/core) - core is a configuration layer for NixOS systems.
 - [Deduplicator](https://github.com/sreedevk/deduplicator) - Find & Destroy Duplicate files consuming your storage.
