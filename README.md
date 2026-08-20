@@ -1,4 +1,4 @@
-> Most of the software development work I do lives on my [personal forgejo instance](https://git.devtechnica.com/xyra/core) and [tangled](https://tangled.org/sree.dev).
+> Most of the software development work I do lives on my [personal forgejo instance](https://git.devtechnica.com/) and [tangled](https://tangled.org/sree.dev).
 
 ### Projects
 - [stibble](https://tangled.org/sree.dev/stibble) - Live STIB-MIVB (Brussels) departures on the Pebble Time 2.
